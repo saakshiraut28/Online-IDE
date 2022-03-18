@@ -1,0 +1,36 @@
+img{
+    border-radius:50%;
+    height:auto;
+    width: 200px;
+    margin:20px;
+}
+
+
+
+.user-details{
+    margin-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: 5;
+    background-color: rgb(201, 201, 201);
+    border-radius: 15px;
+}
+
+
+
+.user-files{
+    margin-top: 20px;
+    padding: 20px;
+    background-color: rgb(201, 201, 201);
+    border-radius: 15px;
+}
+
+.files{
+    border-color: rgb(63, 63, 63);
+    border-width: 1px;
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: rgb(236, 236, 236);
+    border-radius: 10px;
+}
