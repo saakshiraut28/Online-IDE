@@ -1,0 +1,22 @@
+body {
+  height: auto;
+  display: grid;
+  place-items: center;
+  background: rgb(248, 247, 247);
+}
+
+.module-border-wrap {
+  margin: 20px;
+  max-width: 95%;
+  padding: 1rem;
+  position: relative;
+  background: linear-gradient(to right, #7EFF7B, #58E1FF);
+  padding: 3px;
+}
+
+.module {
+  background: rgb(245, 242, 242);
+  color: rgb(17, 17, 17);
+  padding: 2rem;
+}
+  
